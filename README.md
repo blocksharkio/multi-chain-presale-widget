@@ -35,12 +35,12 @@ This repository introduces [PresaleWidget](https://presalewidget.com) — the **
 
 ## 🛠️ Tech Stack
 
-- **Smart Contracts**: Solidity (EVM), Rust (Solana), Vyper (select modules)  
-- **Frontend**: TypeScript, React, TailwindCSS  
-- **Backend**: Node.js, Express, PostgreSQL  
-- **Infrastructure**: Docker, Kubernetes, AWS  
-- **Security**: OpenZeppelin libraries, Chainlink Oracles  
-- **Wallets Supported**: MetaMask, Phantom, TronLink, WalletConnect  
+- **Smart Contracts**: Solidity (EVM)  
+- **Frontend**: TypeScript, React, TailwindCSS, Bootstrap  
+- **Backend**: Node.js / Laravel, PostgreSQL  
+- **CMS Support**: All major CMS platforms, including **WordPress**  
+- **Security & Libraries**: OpenZeppelin libraries, Chainlink Oracles  
+- **Wallets Supported**: MetaMask, Trust Wallet, TronLink, Phantom, WalletConnect — plus **200+ additional wallets** supported via integrations  
 
 ---
 
